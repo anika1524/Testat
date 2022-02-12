@@ -121,9 +121,9 @@ Fachrichtung bei Studium/Promotion
 
 **party**   
 Parteizugehörigkeit
-1 = Bündnis 90/Die Grünen
-2 = SDP
-3 = FPD
+gruene = Bündnis 90/Die Grünen
+spd = SDP
+fdp = FPD
 
 **religion**    
 Religion, 
