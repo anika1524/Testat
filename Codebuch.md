@@ -45,6 +45,30 @@ definiert Verbindungen zwischen Politiker*innen und dem Organisationen
 6 = *Berufstätigkeiten*
 7 = *Studienort in In- und Ausland* Studien- und längere Aufenthalte im In- und Ausland
 
+
+1 = Achtung: Regierung umfasst auch Staatsekretäre und das
+Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende
+Ministerium angegeben werden.
+
+2 = aktuelle und ehemalige politische Funktionen in politischen
+Ausschüssen, Gremien und der Partei. etc. Das können auch frühere
+Stationen gewesen sein, z.B. Geschäftsführer:in einer Partei, etc.
+
+3 = umfasst alle Mitgliedschaften in NGOs, Stiftungen, Gedenkstätten,
+etc: werden im Bundestagsprofil als Körperschaften öffentlichen Rechts
+bezeichnet.
+
+4 = Beteiligung an Unternehmen durch Mandate, etwa Aufsichtsratsmandate,
+Gremien, etc.
+
+5 = erhalten Stipendien (egal wann), etwa Deutsche Studienstiftung,
+Parteinahe Stiftungen, Internationale Organisationen im In- und Ausland
+etc.
+
+6 = ausgeübte Berufstätigkeiten, falls vorhanden
+
+7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland
+
 **year**  
 Jahr, in dem die Variable relationship erhoben wurde
 
