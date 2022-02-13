@@ -78,9 +78,6 @@ Jahr, in dem die Variable relationship erhoben wurde
 **id**  
 eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
 
-**name**
-Vollständiger Name  des/der Politiker/in 
-
 **name_short**
 Nachnahme des/der Politiker/in 
 
